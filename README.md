@@ -1,1 +1,4 @@
-# personal
+#name
+** AmethystYoi **
+** SenRei **
+** Hi **
